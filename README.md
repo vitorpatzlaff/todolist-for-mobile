@@ -3,9 +3,9 @@ This is a to-do list made with React Native. I've used some external libs for us
 
 ## In case of cloning reposiry
 If you want to test it, you will need to run those commands at the root of the project:  
-```npm install```
+```npm install```  
 ```npx react-native link```  
-```cd android``` ```./gradlew clean```
+```cd android``` ```./gradlew clean```  
 ```cd ..``` ```npm run android```  
 I've used Android Studio to test it.
 
