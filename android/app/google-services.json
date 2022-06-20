@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609531277783",
+    "project_id": "test-remote-notification-1b1ed",
+    "storage_bucket": "test-remote-notification-1b1ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609531277783:android:18169762d5dc5de116db92",
+        "android_client_info": {
+          "package_name": "com.vh.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609531277783-cm0umrp5pre37rmt1gheab1kps2rld90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXzEKBdZ468XsgnscdamnVM4_DJHfCjEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609531277783-cm0umrp5pre37rmt1gheab1kps2rld90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
